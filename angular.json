@@ -16,6 +16,7 @@
             "outputPath": "dist/currency-converter",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref": "/currency-converter/",
             "polyfills": [
               "zone.js"
             ],
