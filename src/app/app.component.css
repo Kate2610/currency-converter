@@ -1,0 +1,15 @@
+
+.project-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    min-height: 100vh;
+    background-image: url('../assets/bcg.jpg');
+   
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+

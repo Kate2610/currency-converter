@@ -1,0 +1,21 @@
+.app-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.app-header h1 {
+    font-size: 30px;
+    color: #390a0a;
+    margin-bottom: 10px;
+}
+
+.app-header p {
+    font-weight: bold;
+    font-size: 15px;
+    color: #290202;
+    margin: 7px;
+    font-weight: bold;
+  
+}
